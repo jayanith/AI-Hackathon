@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+logs/*.jsonl
+data/ieee/*.csv
+data/elliptic/*.csv
+node_modules/
+dist/
+.vite/
+bun.lock

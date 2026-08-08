@@ -1,0 +1,8 @@
+{
+  "name": "TrustGraph AI",
+  "description": "Multi-Actor Fraud Control Dashboard & Explainable Remediation Engine with 3-Agent Orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
